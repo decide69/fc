@@ -1,0 +1,21 @@
+
+mmls "C:\Users\UDIT\Desktop\Software and Forensics Image\Windows_Evidence_002.dd"
+
+
+fsstat "C:\Users\UDIT\Desktop\Software and Forensics Image\Windows_Evidence_001.dd"
+
+
+img_stat "C:\Users\UDIT\Desktop\Software and Forensics Image\Windows_Evidence_001.dd
+
+istat -f ntfs "C:\Users\UDIT\Desktop\Software and Forensics Image\Windows_Evidence_0
+01.dd" 0
+
+
+istat -f ntfs "C:\Users\UDIT\Desktop\Software and Forensics Image\Windows_Evidence_0
+01.dd" 1
+
+
+fls -f ntfs "C:\Users\UDIT\Desktop\Software and Forensics Image\Windows_Evidence_001
+.dd"
+
+
